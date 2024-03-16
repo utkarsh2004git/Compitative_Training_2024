@@ -1,0 +1,1 @@
+{"name":"Local: N","url":"d:\\ENGINEERING\\cpp\\strings_vjudge\\N.cpp","tests":[{"id":1709729548477,"input":"4\nword\nlocalization\ninternationalization\npneumonoultramicroscopicsilicovolcanoconiosis\n","output":"word\nl10n\ni18n\np43s\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ENGINEERING\\cpp\\strings_vjudge\\N.cpp","group":"local","local":true}
